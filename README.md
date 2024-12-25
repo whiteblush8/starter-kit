@@ -2,7 +2,7 @@
 # Links Page
 
 ## Overview
-This project is a simple and visually appealing **Links Page** that acts as a centralized hub for all  important online connections. It includes links to  social media profiles and a section featuring the most recent blog posts, making it easy for visitors to explore your content and stay connected.
+This project is a simple and visually appealing **Links Page** that acts as a centralized hub for all  important online connections. It includes links to social media profiles and a section featuring the most recent blog posts.
 
 ## Features
 - **Social Media Links**: Cleanly styled buttons or links for quick access to your social media platforms, such as Facebook, Twitter, Instagram, LinkedIn, and more.
@@ -13,5 +13,5 @@ This project is a simple and visually appealing **Links Page** that acts as a ce
 ## Technologies Used
 - **HTML**: For the structure of the page.
 - **CSS**: For styling the links and overall layout.
-- Optional: **JavaScript** (if dynamic features like fetching blog posts are implemented).
+
 
